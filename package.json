@@ -1,0 +1,26 @@
+{
+  "name": "knots",
+  "version": "1.0.0",
+  "description": "Вузли на Дивошколі",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyvoshkola/knots.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dyvoshkola/knots/issues"
+  },
+  "homepage": "https://github.com/dyvoshkola/knots#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
