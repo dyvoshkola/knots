@@ -8,6 +8,6 @@ title: Захватні і кріпильні вузли
 
 ## Повний перелік вузлів категорії
 
-- [Вибленковий вузол](/hitches/clove-hitch)
-- [Удавка (Constrictor knot)](/hitches/constrictor)
-- [Штик зі шлагом](/hitches/round-turn-two-half-hitches)
+- [Вибленковий вузол](./clove-hitch)
+- [Удавка (Constrictor knot)](./constrictor)
+- [Штик зі шлагом](./round-turn-two-half-hitches)

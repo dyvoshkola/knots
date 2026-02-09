@@ -8,6 +8,6 @@ title: Стопорні вузли
 
 ## Повний перелік вузлів категорії
 
-- [Простий вузол](/stopper/overhand)
-- [Вісімка](/stopper/figure-eight)
-- [Подвійний простий вузол](/stopper/double-overhand)
+- [Простий вузол](./overhand)
+- [Вісімка](./figure-eight)
+- [Подвійний простий вузол](./double-overhand)

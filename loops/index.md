@@ -8,6 +8,6 @@ title: Петлі
 
 ## Повний перелік вузлів категорії
 
-- [Булинь](/loops/bowline)
-- [Альпійський метелик](/loops/alpine-butterfly)
-- [Провідник «вісімка» (петля)](/loops/figure-eight-loop)
+- [Булинь](./bowline)
+- [Альпійський метелик](./alpine-butterfly)
+- [Провідник «вісімка» (петля)](./figure-eight-loop)
